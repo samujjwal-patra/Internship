@@ -10,9 +10,9 @@
 // const CheckPrimeRange = require('./src/Check_Prime_Range.js');
 // CheckPrimeRange.Check();
 
-const SumEvenArray = require('./src/Sum_Even_Array.js');
-const a = [2, 3, 8, 4, 12, 9, 8, 6];
-SumEvenArray.Check(a);
+// const SumEvenArray = require('./src/Sum_Even_Array.js');
+// const a = [2, 3, 8, 4, 12, 9, 8, 6];
+// SumEvenArray.Check(a);
 
 // const SumOddArray = require('./src/Sum_Odd_Array.js');
 // const a = [2, 3, 8, 4, 12, 9, 8, 6];
@@ -51,9 +51,9 @@ SumEvenArray.Check(a);
 // const Divisible = require('./src/Divisible.js');
 // Divisible.Check();
 
-// const CheckPrimeArray = require('./src/Check_Prime_Array.js');
-// const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
-// CheckPrimeArray.Check(a);
+const CountPrimeArray = require('./src/Count_Prime_Array.js');
+const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
+CountPrimeArray.Check(a);
 
 // const MaxMinArray = require('./src/Max_Min_Array.js');
 // const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
