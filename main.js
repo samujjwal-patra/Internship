@@ -65,16 +65,16 @@
 // const PrintOdd = require('./src/22.Print_Odd.js');
 // PrintOdd.Check();
 
-const PrintEven = require('./src/23.Print_Even.js');
-PrintEven.Check();
+// const PrintEven = require('./src/23.Print_Even.js');
+// PrintEven.Check();
 
-// const CheckEvenArray = require('./src/Check_Even_Array.js');
+// const CheckEvenArray = require('./src/25.Check_Even_Array.js');
 // const a = [2, 4, 6, 8];
 // CheckEvenArray.Check(a);
 
-// const CheckAllPrime = require('./src/Check_All_Prime_Array.js');
-// const a = [2, 5, 7, 11, 13, 17, 19];
-// CheckAllPrime.Check(a);
+const CheckAllPrime = require('./src/26.Check_All_Prime_Array.js');
+const a = [2, 5, 7, 11, 13, 17, 19];
+CheckAllPrime.Check(a);
 
 // const SeparateOddEven = require('./src/Separate_Odd_Even.js');
 // const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
