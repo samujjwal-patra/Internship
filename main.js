@@ -45,28 +45,28 @@
 // const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // SumArray.Check(a);
 
-const MultiplicationTable = require('./src/17.Multiplication_Table.js');
-MultiplicationTable.Check(5);
+// const MultiplicationTable = require('./src/17.Multiplication_Table.js');
+// MultiplicationTable.Check(5);
 
-// const Divisible = require('./src/Divisible.js');
+// const Divisible = require('./src/18.Divisible.js');
 // Divisible.Check();
 
-// const CountPrimeArray = require('./src/Count_Prime_Array.js');
+// const CountPrimeArray = require('./src/19.Count_Prime_Array.js');
 // const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
 // CountPrimeArray.Check(a);
 
-// const MaxMinArray = require('./src/Max_Min_Array.js');
+// const MaxMinArray = require('./src/20.Max_Min_Array.js');
 // const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
 // MaxMinArray.Check(a);
 
-// const Palindrome = require('./src/Palindrome.js');
-// Palindrome.Check("Racecar");
+// const Palindrome = require('./src/21.Palindrome.js');
+// Palindrome.Check("Madam");
 
-// const PrintOdd = require('./src/Print_Odd.js');
+// const PrintOdd = require('./src/22.Print_Odd.js');
 // PrintOdd.Check();
 
-// const PrintEven = require('./src/Print_Even.js');
-// PrintEven.Check();
+const PrintEven = require('./src/23.Print_Even.js');
+PrintEven.Check();
 
 // const CheckEvenArray = require('./src/Check_Even_Array.js');
 // const a = [2, 4, 6, 8];
