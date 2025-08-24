@@ -84,10 +84,10 @@
 // const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
 // CountEvenArray.Check(a);
 
-const PrintPrimeArray = require('./src/29.Print_Prime_Array.js');
-const a = [1, 4, 6, 8, 9, 56, 45, 39];
-PrintPrimeArray.Check(a);
-
-// const Average = require('./src/Average_Odd_Even.js');
+// const PrintPrimeArray = require('./src/29.Print_Prime_Array.js');
 // const a = [1, 4, 6, 8, 9, 56, 45, 39];
-// Average.Check(a);
+// PrintPrimeArray.Check(a);
+
+const Average = require('./src/30.Average_Odd_Even.js');
+const a = [1, 4, 6, 8, 9, 56, 45, 39];
+Average.Check(a);
