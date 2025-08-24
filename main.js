@@ -1,8 +1,8 @@
 // const CheckOddEven = require('./src/1.Check_Odd_Even.js');
 // CheckOddEven.Check(13);
 
-// const OddRange = require('./src/Odd_Range.js');
-// OddRange.Check();
+const OddRange = require('./src/3.Odd_Range.js');
+OddRange.Check();
 
 // const CheckPrime = require('./src/Check_Prime.js');
 // CheckPrime.Check(2);
