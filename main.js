@@ -1,34 +1,34 @@
 // const CheckOddEven = require('./src/1.Check_Odd_Even.js');
 // CheckOddEven.Check(13);
 
-const OddRange = require('./src/3.Odd_Range.js');
-OddRange.Check();
+// const OddRange = require('./src/3.Odd_Range.js');
+// OddRange.Check();
 
-// const CheckPrime = require('./src/Check_Prime.js');
-// CheckPrime.Check(2);
+// const CheckPrime = require('./src/4.Check_Prime.js');
+// CheckPrime.Check(10);
 
-// const CheckPrimeRange = require('./src/Check_Prime_Range.js');
+// const CheckPrimeRange = require('./src/5.Print_Prime_Range.js');
 // CheckPrimeRange.Check();
 
-// const SumEvenArray = require('./src/Sum_Even_Array.js');
+// const SumEvenArray = require('./src/6.Sum_Even_Array.js');
 // const a = [2, 3, 8, 4, 12, 9, 8, 6];
 // SumEvenArray.Check(a);
 
-// const SumOddArray = require('./src/Sum_Odd_Array.js');
+// const SumOddArray = require('./src/7.Sum_Odd_Array.js');
 // const a = [2, 3, 8, 4, 12, 9, 8, 6];
 // SumOddArray.Check(a);
 
-// const LargestArray = require('./src/Largest_Array.js');
+// const LargestArray = require('./src/9.Largest_Array.js');
 // const a = [2, 3, 8, 4, 12, 9, 8, 6];
 // LargestArray.Check(a);
 
-// const SmallestArray = require('./src/Smallest_Array.js');
+// const SmallestArray = require('./src/10.Smallest_Array.js');
 // const a = [2, 3, 8, 4, 12, 9, 8, 6];
 // SmallestArray.Check(a);
 
-// const ReverseArray = require('./src/Reverse_Array.js');
-// const a = [1, 2, 3, 4, 7, 8];
-// ReverseArray.Check(a);
+const ReverseArray = require('./src/11.Reverse_Array.js');
+const a = [1, 2, 3, 4, 7, 8];
+ReverseArray.Check(a);
 
 // const ExistArray = require('./src/Exist_Array.js');
 // const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
