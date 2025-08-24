@@ -26,27 +26,27 @@
 // const a = [2, 3, 8, 4, 12, 9, 8, 6];
 // SmallestArray.Check(a);
 
-const ReverseArray = require('./src/11.Reverse_Array.js');
-const a = [1, 2, 3, 4, 7, 8];
-ReverseArray.Check(a);
+// const ReverseArray = require('./src/11.Reverse_Array.js');
+// const a = [1, 2, 3, 4, 7, 8];
+// ReverseArray.Check(a);
 
-// const ExistArray = require('./src/Exist_Array.js');
+// const ExistArray = require('./src/12.Exist_Array.js');
 // const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-// const number = 12;
+// const number = 10;
 // ExistArray.Check(a, number);
 
-// const Factorial = require('./src/Factorial.js');
-// Factorial.Check(0);
+// const Factorial = require('./src/13.Factorial.js');
+// Factorial.Check(5);
 
-// const Fibonacci = require('./src/Fibonacci.js');
+// const Fibonacci = require('./src/14.Fibonacci.js');
 // Fibonacci.Check();
 
-// const SumArray = require('./src/Sum_Array.js');
+// const SumArray = require('./src/16.Sum_Array.js');
 // const a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // SumArray.Check(a);
 
-// const MultiplicationTable = require('./src/Multiplication_Table.js');
-// MultiplicationTable.Check(5);
+const MultiplicationTable = require('./src/17.Multiplication_Table.js');
+MultiplicationTable.Check(5);
 
 // const Divisible = require('./src/Divisible.js');
 // Divisible.Check();
