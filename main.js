@@ -72,13 +72,13 @@
 // const a = [2, 4, 6, 8];
 // CheckEvenArray.Check(a);
 
-const CheckAllPrime = require('./src/26.Check_All_Prime_Array.js');
-const a = [2, 5, 7, 11, 13, 17, 19];
-CheckAllPrime.Check(a);
+// const CheckAllPrime = require('./src/26.Check_All_Prime_Array.js');
+// const a = [2, 5, 7, 11, 13, 17, 19];
+// CheckAllPrime.Check(a);
 
-// const SeparateOddEven = require('./src/Separate_Odd_Even.js');
-// const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
-// SeparateOddEven.Check(a);
+const SeparateOddEven = require('./src/27.Separate_Odd_Even.js');
+const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
+SeparateOddEven.Check(a);
 
 // const CountEvenArray = require('./src/Count_Even_Array.js');
 // const a = [1, 4, 6, 8, 7, 5, 9, 56, 45, 39];
