@@ -1,5 +1,5 @@
-const CheckOddEven = require('./src/1.Check_Odd_Even.js');
-CheckOddEven.Check(13);
+// const CheckOddEven = require('./src/1.Check_Odd_Even.js');
+// CheckOddEven.Check(13);
 
 // const OddRange = require('./src/Odd_Range.js');
 // OddRange.Check();
